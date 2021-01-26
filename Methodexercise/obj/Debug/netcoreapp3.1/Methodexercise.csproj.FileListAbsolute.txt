@@ -1,0 +1,13 @@
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.exe
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.deps.json
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.runtimeconfig.json
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.runtimeconfig.dev.json
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.dll
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\bin\Debug\netcoreapp3.1\Methodexercise.pdb
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.AssemblyInfoInputs.cache
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.AssemblyInfo.cs
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.csproj.CoreCompileInputs.cache
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.dll
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.pdb
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.genruntimeconfig.cache
+C:\Users\osori\repos\MethodExercise\MethodExercise\Methodexercise\obj\Debug\netcoreapp3.1\Methodexercise.csprojAssemblyReference.cache
